@@ -1,6 +1,6 @@
 # 配置dev环境
 spring:
-              profiles: dev
+  profiles: dev
   application:
     name: abcms-eurekaServer-config
 
